@@ -1,0 +1,2 @@
+Pacman: https://commons.wikimedia.org/wiki/File:Pacman_HD.png (added alpha channel)
+Ghost: https://commons.wikimedia.org/wiki/File:Pac-Man_Cutscene.svg (cropped from original)
