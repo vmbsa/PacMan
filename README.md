@@ -1,0 +1,3 @@
+# PacMan
+
+This project was created within the Concurrent and Distributed Programming course unit and consisted in creating a game just like the good old PacMan one, with the only difference being in the fact that while the PacMan itself and every other object in the game were running in a server, the ghosts were initialized by a remote client that connected to the server (multiple ghosts were allowed to connect to the server at the same time) and started running. These remote clients cyclically asked the server for possible directions they could move to, and then just chose one of them, communicating it back to the server
